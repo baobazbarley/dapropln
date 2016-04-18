@@ -80,7 +80,7 @@
 	</p>
 </div>
 <div style="text-align:center; width:100%;">
-	<a href="" target="blank" class="btn btn-primary" href="<?= site_url('uploads/dapro.xlsx') ?>">
+	<a target="blank" class="btn btn-primary" href="<?= base_url('uploads/dapro.xlsx') ?>">
 		Download petunjuk penggunaan sistem
 	</a>
 </div>
